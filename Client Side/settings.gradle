@@ -1,0 +1,2 @@
+rootProject.name='handsafety_banking'
+include ':app'
